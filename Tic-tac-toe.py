@@ -1,14 +1,3 @@
-#Computational Thoughts Final Project
-#Professor Dennis Shasha
-#Sung Won Cho
-#12/15/2011
-#
-#Tic Tac Toe in python
-#
-#The best strategy was borrowed from another program
-#http://www.daniweb.com/software-development/python/threads/26658
-
-
 #ini
 #this initializes the variables
 def ini():
